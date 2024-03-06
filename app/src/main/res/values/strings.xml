@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lab 2 - Mobile Computing</string>
+    <string name="birthday_message">Happy birthday, %1$s. Best wishes from everyone at Birkbeck university for your special day.</string>
+</resources>
